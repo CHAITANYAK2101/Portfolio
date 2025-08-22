@@ -173,10 +173,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Chaitanya Kulkarni**
-- Website: [chaitanyakulkarni.vercel.app](https://chaitanyakulkarni.vercel.app)
-- Email: chaitanya@example.com
-- LinkedIn: [linkedin.com/in/chaitanyakulkarni](https://linkedin.com/in/chaitanyakulkarni)
-- GitHub: [github.com/chaitanyakulkarni](https://github.com/chaitanyakulkarni)
+- Website: [chaitanyakulkarni.vercel.app](https://portfolio-1ck.web.app/)
+- Email: chaitanykulkarni2101@example.com
+- LinkedIn: [linkedin.com/in/chaitanyakulkarni](www.linkedin.com/in/chaitanya-kulkarni-ck21)
+
 
 ---
 
